@@ -1,18 +1,25 @@
 /***************/
 /* YOUR STYLES */
 /***************/
-
+body{
+    background: pink;
+}
 /* Color Palette */
-.color.div {
-    color: aquamarine;
+.color-1 {
+    background: yellow;
 }
 
 /* Textures or Patterns*/
-
+.pattern-1 {
+    background: url(../img/diamond.png);
+}
 
 /* Imagery */
 
-
+.imagery-1 img{
+    border: none;
+    box-shadow: 0 0 10px #ffff ; 
+}
 /* Icons */
 
 
