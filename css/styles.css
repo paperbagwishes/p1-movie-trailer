@@ -1,4 +1,26 @@
 /* Styling */
 body {
-    background: rgba(0, 240, 99, 0.71);
+    background: black;
 }
+
+img {
+    margin-left: 300px;
+    position: center; 
+    width: 1000px; 
+}
+
+video {
+    margin-left: 3px;
+    margin-top: 3px;
+    position: relative;
+    
+   
+    
+}
+
+
+video.mejs__controls{
+     width: 800px;
+   
+}
+
