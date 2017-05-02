@@ -94,8 +94,8 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 .mejs__mediaelement {
     position: absolute;
     top: 0;
-    left: 300px;
-    width: 100%;
+    left: 0%;
+    width: 200%;
     height: 100%;
 }
 
@@ -130,7 +130,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 .mejs__overlay-button {
     position: absolute;
     top: 50%;
-    left: 300px;
+    left: 50%;
     width: 80px;
     height: 80px;
     margin: -40px 0 0 -40px;
